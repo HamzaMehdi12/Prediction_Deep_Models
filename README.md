@@ -50,10 +50,10 @@ Training accuracy: ~74% (varies by epoch).
 
 # Validation accuracy: ~74% (best achieved).
 
-## Evaluation
+# Evaluation
 Accuracy: 74.03% on the test set.
 
-## Confusion Matrix:
+# Confusion Matrix:
 
 True Negatives: 43
 
@@ -63,10 +63,10 @@ False Negatives: 13
 
 True Positives: 14.
 
-## Visualization
+# Visualization
 Plotted training/validation accuracy and loss over epochs.
 
-## Key Techniques
+# Key Techniques
 Handling Missing Values: Zero values replaced with median.
 
 Feature Scaling: StandardScaler applied.
@@ -75,14 +75,14 @@ Regularization: Dropout and BatchNormalization to prevent overfitting.
 
 Early Stopping: To halt training if validation loss does not improve.
 
-## Additional Notes
+# Additional Notes
 The notebook includes references to TensorFlow, Keras, and scikit-learn documentation.
 
 The model is compared with an SVM (SVC) for baseline performance (not detailed in the provided code).
 
 The dataset is publicly available and commonly used for binary classification tasks.
 
-## Ouput Images
+# Ouput Images
 ### Model Accuracy
 ![alt text](https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/TR%20vs%20VAL.png?raw=true)
 ### Confusion Matrix
