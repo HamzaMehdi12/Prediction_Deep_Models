@@ -13,3 +13,6 @@ Public dataset, TensorFlow/Keras/scikit-learn implementation.
 ![alt text](https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/Diabetes_Pred_Model/Confusion%20Matrix.png?raw=true)
 ### Live Example
 ![alt text](https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/Diabetes_Pred_Model/Data.png?raw=true)
+
+# Notebook
+https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/Diabetes_Pred_Model/Diabetes_CNN_Detection.ipynb
