@@ -85,3 +85,7 @@ The dataset is publicly available and commonly used for binary classification ta
 ## Ouput Images
 ### Model Accuracy
 ![alt text](https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/TR%20vs%20VAL.png?raw=true)
+### Confusion Matrix
+![alt text](https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/Confusion%20Matrix.png?raw=true)
+### Live Example
+![alt text](https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/Data.png?raw=true)
