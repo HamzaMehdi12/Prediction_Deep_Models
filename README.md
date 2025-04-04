@@ -1,16 +1,16 @@
-Objective
+# Objective
 Implement a diabetes detection model using a 1D CNN layer and scikit-learn classifiers.
 
 Aim for an accuracy of 85%+ using the Adam optimizer.
 
-Dataset
+# Dataset
 Source: Pima Indians Diabetes dataset from UCI (URL provided).
 
 Features: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age.
 
 Target: Outcome (binary classification: diabetic or non-diabetic).
 
-Preprocessing:
+# Preprocessing:
 
 Replaced zero values with median for relevant columns (Glucose, BloodPressure, etc.).
 
@@ -20,10 +20,10 @@ StandardScaler used for feature scaling.
 
 Reshaped data for Conv1D input.
 
-Model Architecture
+# Model Architecture
 Type: Sequential CNN model.
 
-Layers:
+# Layers:
 
 Multiple Conv1D layers (64, 128, 256 filters) with ReLU activation, BatchNormalization, and Dropout.
 
@@ -37,7 +37,7 @@ Loss Function: Binary cross-entropy.
 
 Metrics: Accuracy and AUC.
 
-Training
+# Training
 Epochs: 200 with early stopping (patience = 20).
 
 Batch Size: 32.
