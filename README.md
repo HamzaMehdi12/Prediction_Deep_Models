@@ -22,4 +22,23 @@ Public dataset, TensorFlow/Keras/scikit-learn implementation.
 https://github.com/HamzaMehdi12/Diabetes_Pred/blob/main/Diabetes_Pred_Model/Diabetes_CNN_Detection.ipynb
 
 
-## Object Detection
+## Covid19 Forecasting Prediction Model using ARIMAX
+The system focuses on forecasting daily new COVID-19 cases using time-series techniques while maintaining temporal relationships through strict datetime indexing. It features automated model configuration via auto_arima, integrated visual diagnostics at multiple stages, and robust preprocessing pipelines. The implementation handles exogenous variables through ARIMAX and provides confidence interval estimates for forecasts. The modular design separates concerns while maintaining interoperability between data processing, modeling, and evaluation components.
+## Images
+### Arimax Train vs Test
+![AriMAX Train vs Test Forecast](https://github.com/user-attachments/assets/9d115593-7e4c-4103-afe7-c508a25aced6)
+### Daily Cases
+![Daily_Old_New_Deaths_Recovered_And_Total_Cases](https://github.com/user-attachments/assets/db9b4c76-95f7-43da-869e-959728b4a18d)
+### Results
+![Results](https://github.com/user-attachments/assets/da831ec1-4eb8-4ccb-991b-7196a31a243c)
+
+### Project
+Find the project on the link below
+https://github.com/HamzaMehdi12/Covid_19-Prediction-Model-using-ARIMAX/blob/main/README.md
+
+
+
+
+
+
+
